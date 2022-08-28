@@ -94,7 +94,7 @@ resource "null_resource" "control-node" {
     provisioner "remote-exec" {
       inline = [
         "sudo apt-get update -y",
-		"sudo apt install python3-pip -y",
+	"sudo apt install python3-pip -y",
         "sudo apt install ansible -y",
         "echo '[ciservers]' > ~/hosts",
         "echo '${aws_instance.web.*.public_dns[1]}' >> ~/hosts",
