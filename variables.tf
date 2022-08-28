@@ -1,17 +1,17 @@
 variable "access_key" {
 	description = "access_key for aws"
 	type        = string
-	default     = "ASIAX6MDMDL4LFQWQHHQ"
+	default     = "ASIA6D4UPZ55WE2MBF7X"
 }
 
 variable "secret_key" {
 	description = "secret_key for aws"
 	type        = string
-	default     = "f5O5l4qFQlD+EWCpwEurs5pc3/QziQnDX3ugfpuK"
+	default     = "lia+YW/1RmZ5BnZoCfVMABuuZKABWq+6E8UqhFDQ"
 }
 
 variable "session_token" {
 	description = "session_token for aws"
 	type        = string
-	default     = "FwoGZXIvYXdzEBAaDPU8IeAt/vC1QRU90CK6AWmlDH9Wm1APmj2ELcn0SJWEMnvRdYIYvffeQfGvK17+kGzXR/vpWx1cRKeJ8YUCndlhfjuhKzxErMkoEFIRwdnuscUAvcDFm2/grCVScy4z4JPOHo7C4XSquBmVXt3cJC5YNtxlcSgcKZyC8hmtm1Y3hbdscK60PBolC6BB71PzK6lng13zu2Gz41Q6sp9VN3WX7OWcpBgURWCCFuWad6OEPxg+12oPTI7ZrCsuFDnwcshqphAFCLaXzSjVnIaKBjItExkR1gR9Xp6RS1nMFRaazEjSp8cwZBbqHPsbx8PJSKvreN/loMtZ6qLwVKWs"
+	default     = "FwoGZXIvYXdzEJb//////////wEaDOjvOczqzVqF95ly/CK6Ae5PjK6FTPXka0HOGUnk9KKOgj6lUikwPcwI8AZaFe89KmLmcf010LB0bWBjRqabbu5GhYDQuSOOm3E0P02dW5yLHCLZjuEzR39nE6+OeILOxUFaqS4BiUEfYy3kGtULG06cOcIp7Gfd9u+FP8YgwptClsLZ2ss1btVFZ52pwLbGTrU8PX091F7ZKcp+/NiVdDH8+JMAvQ/IKFGafDhFBmvHCXW8R6KiHi27Gg/R0MdNQvDrndBu6GWkAiio6KuYBjItNMjAa8yObGc1zJuYgo7QbwaKESkQxef7/DT7o9mXXm0sSshesqwckp7oUai0"
 }
